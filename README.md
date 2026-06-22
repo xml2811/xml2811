@@ -1,6 +1,6 @@
 ﻿# Hi, I'm Xavier Madrid Lerga
 
-## IT Technician Â· Windows Tools Builder Â· Linux/Docker Â· Networking Â· Automation
+## IT Technician | Windows Tools Builder | Linux And Docker | Networking | Automation
 
 I'm a technician in Microcomputer Systems and Networks focused on building practical tools, automation workflows, Linux infrastructure and useful software for real technical problems.
 
@@ -55,17 +55,19 @@ I'm building a collection of portable Windows utilities focused on real technica
 | Infrastructure | Docker, Docker Compose, Nginx, PostgreSQL, Cloudflare |
 | Automation | n8n, scripts, internal workflows |
 | Networking | DNS, DHCP, ping, traceroute, diagnostics |
-| Security Learning | Hardening basics, SSL/TLS, defensive tooling |
+| Security Learning | Hardening basics, SSL and TLS, defensive tooling |
 
 ---
 
 ## Featured Repositories
 
-- Windows Tools Catalog: https://github.com/xml2811/Windows-Tools
-- Network Tools: https://github.com/xml2811/Network-Tools
-- SSL Checker: https://github.com/xml2811/SSL-Checker
-- MPTechSolutions Project: https://github.com/xml2811/mptechsolutions-project
-- Personal Portfolio: https://github.com/xml2811/about-me
+| Project | Link |
+|---|---|
+| Windows Tools Catalog | https://github.com/xml2811/Windows-Tools |
+| Network Tools | https://github.com/xml2811/Network-Tools |
+| SSL Checker | https://github.com/xml2811/SSL-Checker |
+| MPTechSolutions Project | https://github.com/xml2811/mptechsolutions-project |
+| Personal Portfolio | https://github.com/xml2811/about-me |
 
 ---
 
